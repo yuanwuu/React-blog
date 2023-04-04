@@ -1,0 +1,31 @@
+.blogContent {
+    margin: 0 0 4rem 0;
+    padding: 0 0 2rem 0;
+    line-height: 2rem;
+    border-bottom: 1px solid lightgray;
+}
+
+.Article {
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+article >p::first-letter {
+    color: lightgray;
+    font-size: 5rem;
+    initial-letter: 3;
+    padding-right: 10px;
+}
+
+.date {
+    font-size: 2rem;
+    color: lightgray;
+}
+.blogTitle{
+    font-size: 3rem;
+}
+
+.Continues {
+    font-size: 2rem;
+    color: tomato;
+    padding-left: 75%;
+  }

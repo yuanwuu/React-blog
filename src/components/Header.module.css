@@ -1,0 +1,13 @@
+.Header > h1{
+    color: tomato;
+    font-size: 4rem;
+    text-align: left;
+}
+.Header .topNav {
+    color: lightgray;
+    font-size: larger;
+    text-decoration: underline;
+}
+.Header{
+    padding: 1rem 2rem 1rem 2rem;
+  }
